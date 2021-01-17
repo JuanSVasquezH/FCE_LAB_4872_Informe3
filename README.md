@@ -28,12 +28,13 @@
 
                                                                        2020
 								       
-1.	Tema: Teorema de Superposición. 
+								       
+1. Tema: Teorema de Superposición. 
 
-2.      Objetivos.
+2. Objetivos.
        
-        2.1 Objetivos Generales.
-	●	Mostrar el funcionamiento del teorema de superposicion mediante la representación de un circuito y poder comprobar asi que se cumple en cada caso especifico. 
+     2.1 Objetivos Generales.
+     ●	 Mostrar el funcionamiento del teorema de superposicion mediante la representación de un circuito y poder comprobar asi que se cumple en cada caso especifico. 
 	
         2.2 Objetivos Especificos. 
 	
