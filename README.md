@@ -49,8 +49,7 @@
 
 4.      Diagramas. 
 
-
-           Figura 4.1. Circuito para comprobar el Teorema de Superposición.
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/D1.png) 
 
          ●	I
 	   
