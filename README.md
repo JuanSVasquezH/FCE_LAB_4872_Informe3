@@ -37,34 +37,36 @@
 
 	●	Mostrar el funcionamiento del teorema de superposición mediante la representación de un circuito y poder comprobar así que se cumple en cada caso específico.
 
+	
 	1.2 Objetivos Específicos
 
 	●	Examinar detalladamente mediante el uso de simuladores que se cumpla el teorema de superposición, y poder compararlas con los valores obtenidos mediante la elaboración de los cálculos una vez ya establecidos.
 
+	
 	●	Justificar cada dato obtenido con la simulación y cálculos en el presente circuito y calcular el error y obtener una conclusión del porque existen esas variaciones y entenderlas de mejor manera.
 	
+	
 	●	Considerar que elementos están presentes en cada circuito ya que no todos se comportan de la misma manera ya sea con fuentes de voltaje o fuentes de corriente.
-	 
+	
+	
 3.	Marco Teórico 
 
-![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/Mt1.png)
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/Mt1.png)
 
 
 4.	Diagramas 
  
-![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/D1.png) 
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/D1.png) 
+      
 
 ●	El circuito a implementar está establecido para poner en práctica el teorema de superposición, es decir el efecto de dos fuentes o más en un circuito tienen impedancia del mismo valor, a la suma de cada efecto de las fuentes por separado, y sustituirá las fuentes tensión (Voltaje), por corto circuito y las fuentes de corriente en un circuito abierto. 
 
 
 5.	Lista De Componentes 
 
-![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/LC.png)
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/LC.png)
 
   5.1 	Explicación
- 
-
-        5.1. Explicación.
 	 
      	●	I	 
 
@@ -81,6 +83,13 @@
 11.      Conclusiones. 
 
 12.      Bibliografía. 
+
+   ●	    SN (2020), Análisis de circuitos y sistemas lineales, recuperado de: 	https://repositorio.innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm 
+
+   ●	    https://www.tina.com/. (2020). Teorema de Superposición, recuperado de:  https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas 
+
+   ●	    Wikipedia.com (2020). Teorema de Superposición, recuperado de: 	https://es.wikipedia.org/wiki/Teorema_de_superposici%C3%B3n
+
 
 13.      Anexos 
 
