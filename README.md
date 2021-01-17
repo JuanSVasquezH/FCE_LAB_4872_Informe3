@@ -55,8 +55,9 @@
 	   
 5.       Lista de Componentes.
 
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/LC.png) 
 
-         5.1. Explicación.
+        5.1. Explicación.
 	 
      	●	I	 
 
