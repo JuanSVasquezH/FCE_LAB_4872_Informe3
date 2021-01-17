@@ -45,7 +45,7 @@
 
 3.      Marco Teòrico.
 
-![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/ImagenesInforme3/Mt1.png) 
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/Mt1.png) 
 
 4.      Diagramas. 
 
