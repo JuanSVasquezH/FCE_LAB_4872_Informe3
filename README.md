@@ -29,35 +29,40 @@
                                                                        2020
 								       
 								       
-1. Tema: Teorema de Superposición. 
+1.	Tema: Teorema de Superposición 
 
-2. Objetivos.
-       
-     2.1 Objetivos Generales.
-     
-     ●	 Mostrar el funcionamiento del teorema de superposicion mediante la representación de un circuito y poder comprobar asi que se cumple en cada caso especifico. 
+2.	Objetivos
+
+	1.1 Objetivo General
+
+	●	Mostrar el funcionamiento del teorema de superposición mediante la representación de un circuito y poder comprobar así que se cumple en cada caso específico.
+
+	1.2 Objetivos Específicos
+
+	●	Examinar detalladamente mediante el uso de simuladores que se cumpla el teorema de superposición, y poder compararlas con los valores obtenidos mediante la elaboración de los cálculos una vez ya establecidos.
+
+	●	Justificar cada dato obtenido con la simulación y cálculos en el presente circuito y calcular el error y obtener una conclusión del porque existen esas variaciones y entenderlas de mejor manera.
 	
-     2.2 Objetivos Especificos. 
-	
-     ●  Examinar detalladamente mediante el uso de simuladores que se cumpla el teorema de superposición, y poder compararlas con los valores obtenidos mediante la elaboración de los calculos uan vez ya establecidos.
-     
-     ●	Justificar cada dato obtenido con la simulacion y calculos en el presente circuito y calcular el error y obtener una conclució del porque existen esas variaciones y entenderlas de mejor manera. 
+	●	Considerar que elementos están presentes en cada circuito ya que no todos se comportan de la misma manera ya sea con fuentes de voltaje o fuentes de corriente.
+	 
+3.	Marco Teórico 
 
-     ●	Considerar que elemetos estan presentes en cada cicuito ya que no todos se comportan de la misma mandera ya sea con fuentes de voltaje o fuentes de corriente.
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/Mt1.png)
 
-3.      Marco Teòrico.
 
-![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/Mt1.png) 
-
-4.      Diagramas. 
-
+4.	Diagramas 
+ 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/D1.png) 
 
-         ●	I
-	   
-5.       Lista de Componentes.
+●	El circuito a implementar está establecido para poner en práctica el teorema de superposición, es decir el efecto de dos fuentes o más en un circuito tienen impedancia del mismo valor, a la suma de cada efecto de las fuentes por separado, y sustituirá las fuentes tensión (Voltaje), por corto circuito y las fuentes de corriente en un circuito abierto. 
 
-![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/LC.png) 
+
+5.	Lista De Componentes 
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/LC.png)
+
+  5.1 	Explicación
+ 
 
         5.1. Explicación.
 	 
