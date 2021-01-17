@@ -34,15 +34,16 @@
 2. Objetivos.
        
      2.1 Objetivos Generales.
+     
      ●	 Mostrar el funcionamiento del teorema de superposicion mediante la representación de un circuito y poder comprobar asi que se cumple en cada caso especifico. 
 	
-        2.2 Objetivos Especificos. 
+     2.2 Objetivos Especificos. 
 	
-	●	I
-	
-	●	I
-	
-	●	I
+     ●  Examinar detalladamente mediante el uso de simuladores que se cumpla el teorema de superposición, y poder compararlas con los valores obtenidos mediante la elaboración de los calculos uan vez ya establecidos.
+     
+     ●	Justificar cada dato obtenido con la simulacion y calculos en el presente circuito y calcular el error y obtener una conclució del porque existen esas variaciones y entenderlas de mejor manera. 
+
+     ●	Considerar que elemetos estan presentes en cada cicuito ya que no todos se comportan de la misma mandera ya sea con fuentes de voltaje o fuentes de corriente.
 
 3.      Marco Teòrico.
 
