@@ -68,10 +68,14 @@
 
   5.1 	Explicación
 	 
-     	● Para le elaboración del teorema de superposición debemos tomar en cuenta el número de fuentes de voltaje independientes presentes en el circuito.
-	● Cortocircuitar una fuente voltaje o abrir si es fuente de corriente  luego asignamos sentido a nuestra corriente para determinar analíticamente el valor de cada corriente y el voltaje que cae en la resistencia a determinar.
-	● Cortocircuitar la otra fuente de voltaje verificar el analíticamente el valor de la corriente y voltajes q determinaremos o solicitan en el circuito 
-     	● Ya identificado el resistor R2 que son los que comparten corrientes tanto de I2 e I1 (Ix del cálculo)  procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “Livewire”.	 
+
+	●	Para le elaboración del teorema de superposición debemos tomar en cuenta el número de fuentes de voltaje independientes presentes en el circuito.
+
+	●	Cortocircuitar una fuente voltaje o abrir si es fuente de corriente luego asignamos sentido a nuestra corriente para determinar analíticamente el valor de cada corriente y el voltaje que cae en la resistencia a determinar.
+
+	●	Cortocircuitar la otra fuente de voltaje verificar el analíticamente el valor de la corriente y voltajes q determinaremos o solicitan en el circuito 
+
+	●	Ya identificado el resistor R2 que son los que comparten corrientes tanto de I2 e I1 (Ix del cálculo)  procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “Livewire”.	 
 
 6.       Procedimiento.
       
@@ -113,7 +117,7 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
 
 8.       Tabulación de Datos.
 
-9.       Calculos.
+9.       Cálculos.
 
 10.      Aportaciones. 
 •	El Teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema, para luego sumar estos datos y hallar los verdaderos valores proporcionados en el circuito.
@@ -137,7 +141,7 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
 
    ●	    https://www.tina.com/.(2020). Teorema de Superposición, recuperado de:  https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas 
 
-   ●	    Wikipedia.com (2020). Teorema de Superposición, recuperado de: 	https://es.wikipedia.org/wiki/Teorema_de_superposici%C3%B3n
+   ●	    Wikipedia.com (2020).Teorema de Superposición, recuperado de: 	https://es.wikipedia.org/wiki/Teorema_de_superposici%C3%B3n
 
 
 13.      Anexos
