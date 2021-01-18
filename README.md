@@ -1,4 +1,4 @@
-# FCE_LAB_4872_Informe3
+# FCE_LAB_4872_Informe3# FCE_LAB_4872_Informe3
 "Teorema de Superposición" 
 
                                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
@@ -68,13 +68,10 @@
 
   5.1 	Explicación
 	 
-     	●	Para le elaboración del análisis de mallas debemos tomar en cuenta el número de mallas presentes en el circuito, luego veremos el sentido de las corrientes el cual se va a tomar, esto es importante ya que este nos dará el signo en el valor final de cada corriente en las diferentes mallas que analizamos.
-
-     	●	EL número de corrientes que se hallara es igual al número de mallas que se tenga en el circuito, en este caso analizamos 3 mallas por ende existe 3 corrientes una circulando en cada malla.
-
-     	●	 Cabe mencionar que para el análisis es importante identificar que elemento en el circuito está compartiendo dos o más corrientes, ya que estas se restaran para poder realizar una correcta formulación de las ecuaciones.
-
-     	●	 Ya identificado los resistores R4 y R5 que son los que comparten corrientes tanto de I2 e I1 para el resistor R4 y I2 e I3 para R5, procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “MULTISIM”.	 
+     	● Para le elaboración del teorema de superposición debemos tomar en cuenta el número de fuentes de voltaje independientes presentes en el circuito.
+	● Cortocircuitar una fuente voltaje o abrir si es fuente de corriente  luego asignamos sentido a nuestra corriente para determinar analíticamente el valor de cada corriente y el voltaje que cae en la resistencia a determinar.
+	● Cortocircuitar la otra fuente de voltaje verificar el analíticamente el valor de la corriente y voltajes q determinaremos o solicitan en el circuito 
+     	● Ya identificado el resistor R2 que son los que comparten corrientes tanto de I2 e I1 (Ix del cálculo)  procedemos a armar las ecuaciones. Si se tiene una fuente de voltaje solo se copia el valor que se encuentre, siempre respetando el orden de los signos ya que si no lo hacemos nos dará un valor erróneo y a su vez inservible para el análisis futuro que se realizara con la simulación del Simulador a implementar “Livewire”.	 
 
 6.       Procedimiento.
       
@@ -87,9 +84,8 @@ Paso 1.	Abrimos el simular Liveware y creamos un nuevo proyecto
 
 
 Paso 2.	Colocamos las resistencias y las fuentes de voltaje que vamos a utilizar 
-
-
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/3.png)      
+      
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/3.png)
 
 Paso 3.	Armamos el circuito de acuerdo con el diagrama establecido y asignamos los valores correspondientes a cada resistencia y fuente de voltaje además colocamos lo voltímetro en la resistencia R3 y el amperímetro en Ix nodo 2. 
     
@@ -120,11 +116,16 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
 9.       Calculos.
 
 10.      Aportaciones. 
+•	El Teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema, para luego sumar estos datos y hallar los verdaderos valores proporcionados en el circuito.
 
 •	Para la medición de corriente, se recomienda efectuar la medición del voltaje e impedancia en los bornes requeridos, luego por la segunda ley de Kirchhoff determinar el valor de la intensidad.
 
+•	De manera práctica aprendimos a implementar el teorema de superposición con la toma de medidas usando dos fuentes de alimentación.
+
 
 11.      Conclusiones. 
+
+•	Para suprimir las fuentes ideales de tensión se ponen uniones donde debería ir esa fuente. Se puede determinar que si la fuente no es la ideal esta se cortocircuita, pero se deja introducida en el circuito eléctrico. Para cuando se tiene la fuente ideal esta se reemplaza por un circuito abierto.
 
 •	Tras finalizar la práctica de manera correcta podemos observar la gran utilidad del teorema de superposición ya que este nos facilita a gran escala los cálculos matemáticos de un circuito, los hace menos complejos permitiéndonos ahorrar gran cantidad de tiempo, este teorema es básico debido a que nos será una herramienta bastante útil a lo largo del semestre.
 
@@ -134,7 +135,7 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
 
    ●	    SN (2020), Análisis de circuitos y sistemas lineales, recuperado de: 	https://repositorio.innovacionumh.es/Proyectos/P_19/Tema_1/UMH_05.htm 
 
-   ●	    https://www.tina.com/. (2020). Teorema de Superposición, recuperado de:  https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas 
+   ●	    https://www.tina.com/.(2020). Teorema de Superposición, recuperado de:  https://es.wikipedia.org/wiki/An%C3%A1lisis_de_mallas 
 
    ●	    Wikipedia.com (2020). Teorema de Superposición, recuperado de: 	https://es.wikipedia.org/wiki/Teorema_de_superposici%C3%B3n
 
