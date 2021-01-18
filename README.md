@@ -1,4 +1,4 @@
-# FCE_LAB_4872_Informe3# FCE_LAB_4872_Informe3
+# FCE_LAB_4872_Informe3
 "Teorema de Superposición" 
 
                                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
@@ -89,16 +89,16 @@ Paso 1.	Abrimos el simular Liveware y creamos un nuevo proyecto
 Paso 2.	Colocamos las resistencias y las fuentes de voltaje que vamos a utilizar 
 
 
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/3.png)
-      
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/3.png)      
 
-Paso 3.	Armamos el circuito de acuerdo al diagrama establecido y asignamos los valores correspondientes a cada resistencia y fuente de voltaje además colocamos lo voltímetro en la resistencia R3 y el amperímetro en Ix nodo 2 
+Paso 3.	Armamos el circuito de acuerdo con el diagrama establecido y asignamos los valores correspondientes a cada resistencia y fuente de voltaje además colocamos lo voltímetro en la resistencia R3 y el amperímetro en Ix nodo 2. 
     
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/4.png)
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/4.png)
 
 
 Paso 4.	Quitamos la fuente número 2 y observamos las mediciones y anotamos. 
       
+
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/5.png)
 
 
