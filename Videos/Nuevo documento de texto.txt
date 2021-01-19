@@ -1,7 +1,8 @@
-Video "Analisis de Mallas"
-Integrantes: C·rdenas Freddy
-             V·squez Juan 
+Video "Teorema de Superposici√≥n"
+Integrantes: C√°rdenas Freddy
+             V√°squez Juan 
 
 NRC: 4872 
 
 Link:    https://youtu.be/2BECor8TMQA
+
