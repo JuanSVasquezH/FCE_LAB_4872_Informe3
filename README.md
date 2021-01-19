@@ -144,7 +144,7 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
 
 ● 	Los Cálculos se encuentran en carpeta Anexos.
 
-https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/Anexos/Calculos.pdf
+https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/Anexos/Calculos.pdf
 
 10.      Aportaciones. 
 •	El Teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema, para luego sumar estos datos y hallar los verdaderos valores proporcionados en el circuito.
