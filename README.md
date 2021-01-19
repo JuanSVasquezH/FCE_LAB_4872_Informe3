@@ -116,8 +116,32 @@ En primer lugar, se advierte que cuando se considera una fuente independiente, l
 Recordemos que este método solo es válido solo para circuitos lineales, aquél constituido por elementos lineales y fuentes independientes.
 
 8.       Tabulación de Datos.
+    
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t1.png)
+
+      
+                         1. Tabla 4.1. Resultados obtenidos para el circuito de la figura 4.1.       
+
+
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t2.png)
+
+                         2. Tabla 4.2. Resultados de error para el circuito de la figura 4.1.     
+
+
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t3.png)
+      
+                         3. Tabla 4.1.1,4.1.2,4.1.3. Resultados de error para el circuito de la figura 4.1.       
+
+
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t4.png)
+      
+                         4. Tabla 4.1.1,4.1.2,4.1.3. Resultados de error para el circuito de la figura 4.1.       
 
 9.       Cálculos.
+
+● 	Los Cálculos se encuentran en carpeta Anexos.
+
+https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/Anexos/Calculos.pdf
 
 10.      Aportaciones. 
 •	El Teorema de superposición permite evaluar los datos proporcionados por cada una de las fuentes en las diferentes resistencias del sistema, para luego sumar estos datos y hallar los verdaderos valores proporcionados en el circuito.
@@ -131,6 +155,8 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
 
 •	Para suprimir las fuentes ideales de tensión se ponen uniones donde debería ir esa fuente. Se puede determinar que si la fuente no es la ideal esta se cortocircuita, pero se deja introducida en el circuito eléctrico. Para cuando se tiene la fuente ideal esta se reemplaza por un circuito abierto.
 
+•	Se comprueba mediante las fórmulas ya conocidas V=IR (Ley de Ohm), 	que ambas leyes tanto de corriente y voltajes en un circuito cerrado son cero. Es decir que el uso adecuado de las fórmulas y el planteamiento adecuado de las corrientes al usar el método de mallas nos facilita mejor la comprensión del circuito y las leyes en sí. Esto ocurre igual en la sumatoria de los voltajes del circuito.
+
 •	Tras finalizar la práctica de manera correcta podemos observar la gran utilidad del teorema de superposición ya que este nos facilita a gran escala los cálculos matemáticos de un circuito, los hace menos complejos permitiéndonos ahorrar gran cantidad de tiempo, este teorema es básico debido a que nos será una herramienta bastante útil a lo largo del semestre.
 
 •	Como se puede apreciar la diferencia entre los cálculos matemáticos, los datos obtenidos de manera experimental y de manera simulada son muy pequeñas por lo cual se concluye que la práctica se desarrolló de manera correcta.
@@ -143,5 +169,6 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
 
    ●	    Wikipedia.com (2020).Teorema de Superposición, recuperado de: 	https://es.wikipedia.org/wiki/Teorema_de_superposici%C3%B3n
 
-
 13.      Anexos
+
+https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe2/blob/main/Videos/Video_Analisis_Mallas.txt 
