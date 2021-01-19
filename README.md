@@ -124,21 +124,15 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
                          1. Tabla 4.1. Resultados obtenidos para el circuito de la figura 4.1.       
 
 
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t2.png)
-
- 
-
+![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t2.png)
 
 
                          2. Tabla 4.2. Resultados de error para el circuito de la figura 4.1.     
-
-
       
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t3.png)
       
                          3. Tabla 4.1.1,4.1.2,4.1.3. Resultados de error para el circuito de la figura 4.1.       
-
 
 
 ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t4.png)
