@@ -1,4 +1,4 @@
-# FCE_LAB_4872_Informe3
+# FCE_LAB_4872_Informe3# FCE_LAB_4872_Informe3
 "Teorema de Superposición" 
 
                                                       UNIVERSIDAD DE LAS FUERZAS ARMADAS-ESPE
@@ -124,7 +124,8 @@ Recordemos que este método solo es válido solo para circuitos lineales, aquél
                          1. Tabla 4.1. Resultados obtenidos para el circuito de la figura 4.1.       
 
 
-      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t2.png) 
+      ![](https://github.com/JuanSVasquezH/FCE_LAB_4872_Informe3/blob/main/ImagenesInforme3/t2.png)
+
  
 
 
